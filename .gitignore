@@ -1,2 +1,6 @@
 # ignore config files containing API Keys
 */Config.py
+.ipynb_checkpoints
+**/*.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+__pycache__
